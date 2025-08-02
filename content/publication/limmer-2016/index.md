@@ -11,7 +11,7 @@ publication: '*2016 IEEE 26th International Workshop on Machine Learning for Sig
   Processing (MLSP)*'
 
 # Summary. An optional shortened abstract.
-summary: This paper explores 
+abstract: This paper investigates machine learning techniques to achieve low-latency approximate solutions for inverse problems, specifically focusing on recovering sparse stochastic signals within ℓp​-balls using a probabilistic framework. The authors analyze the Bayesian mean-square-error (MSE) for two estimators: a linear one, and a structured nonlinear one comprising a linear operator followed by a Cartesian product of univariate nonlinear mappings. Crucially, the proposed nonlinear estimator maintains comparable complexity to its linear counterpart due to the efficient hardware implementation of the nonlinear mapping via look-up tables (LUTs). This structure is well-suited for neural networks and single-iterate shrinkage/thresholding algorithms, and an alternating minimization technique yields optimized operators and mappings that converge in MSE, making it highly appealing for real-time applications where traditional iterative optimization is infeasible.
 
 tags:
   - Sparse Signal Processing

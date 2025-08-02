@@ -13,6 +13,8 @@ publication: '*2023 IEEE 33rd International Workshop on Machine Learning for Sig
 publication_short: In *MLSP 2023*
 
 # Summary. An optional shortened abstract.
+abstract: This paper presents a novel physics-informed machine learning method for pathloss prediction that significantly enhances generalization and prediction accuracy. The approach uniquely integrates both the inherent physical relationships within the spatial loss field and empirical pathloss measurements directly into the neural network's training process. This dual-constraint learning problem enables the model to achieve superior performance with fewer layers and parameters, resulting in exceptionally fast inference times crucial for subsequent applications like localization. Furthermore, the physics-informed framework substantially reduces the need for extensive training data, making this method highly adaptable and practical for diverse real-world pathloss prediction challenges.
+
 summary: This paper presents a novel physics-informed machine learning method for pathloss prediction that significantly enhances generalization and prediction accuracy. The approach uniquely integrates both the inherent physical relationships within the spatial loss field and empirical pathloss measurements directly into the neural network's training process. This dual-constraint learning problem enables the model to achieve superior performance with fewer layers and parameters, resulting in exceptionally fast inference times crucial for subsequent applications like localization. Furthermore, the physics-informed framework substantially reduces the need for extensive training data, making this method highly adaptable and practical for diverse real-world pathloss prediction challenges.
 
 tags:
@@ -27,12 +29,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2211.12986'
-# url_code: 'https://github.com/stli/2023_pinn'
+url_code: 'https://github.com/stli/2023_pinn'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-url_source: 'https://github.com/stli/2023_pinn'
+# url_source: 'https://github.com/stli/2023_pinn'
 # url_video: 'https://youtube.com'
 
 # Featured image
@@ -50,3 +52,13 @@ image:
 projects:
   - Physical AI
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

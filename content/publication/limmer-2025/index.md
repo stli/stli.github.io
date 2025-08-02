@@ -13,7 +13,7 @@ publication: '*2025 IEEE 35th International Workshop on Machine Learning for Sig
 publication_short: In *MLSP 2025*
 
 # Summary. An optional shortened abstract.
-summary: The analysis of variance (ANOVA) decomposition offers a systematic method to understand the interaction effects that contribute to a specific decision output. In this paper we introduce Neural-ANOVA, an approach to decompose neural networks into the sum of lower-order models using the functional ANOVA decomposition. Our approach formulates a learning problem, which enables fast analytical evaluation of integrals over subspaces that appear in the calculation of the ANOVA decomposition. Finally, we conduct numerical experiments to provide insights into the approximation properties compared to other regression approaches from the literature. 
+abstract: The analysis of variance (ANOVA) decomposition offers a systematic method to understand the interaction effects that contribute to a specific decision output. In this paper we introduce Neural-ANOVA, an approach to decompose neural networks into the sum of lower-order models using the functional ANOVA decomposition. Our approach formulates a learning problem, which enables fast analytical evaluation of integrals over subspaces that appear in the calculation of the ANOVA decomposition. Finally, we conduct numerical experiments to provide insights into the approximation properties compared to other regression approaches from the literature. 
 
 tags:
   - Physical AI
