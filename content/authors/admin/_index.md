@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Electrical Engineering and Computer Science
     institution: Technical Universitiy of Berlin
-    date_start: 04/2013
-    date_end: 12/2018
+    date_start: 2013-04-01
+    date_end: 2018-12-31
     summary: |
       Thesis on _Neural Architectures for Sparse Signals_. Supervised by [Prof Slawimir Stanczak].
     button:
@@ -59,14 +59,14 @@ education:
       url: 'https://depositonce.tu-berlin.de/bitstream/11303/9010/4/limmer_steffen.pdf'
   - area: Dipl.-Ing. Artificial Intelligence
     institution: Technical University of Munich (TUM)
-    date_start: 2006
-    date_end: 2011
+    date_start: 2006-04-01
+    date_end: 2011-12-31
 work:
   - position: Research Scientist
     company_name: Siemens AG
     company_url: ''
     company_logo: ''
-    date_start: 01/2019
+    date_start: 2019-01-16
     date_end: ''
     summary: |2-
       Responsibilities include:
