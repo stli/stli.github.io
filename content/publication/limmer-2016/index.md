@@ -15,7 +15,7 @@ abstract: This paper investigates machine learning techniques to achieve low-lat
 
 tags:
   - Sparse Signal Processing
-  - AI4Science
+  # - AI4Science
 
 # Display this page in the Featured widget?
 featured: true

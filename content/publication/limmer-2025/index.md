@@ -17,7 +17,7 @@ abstract: The analysis of variance (ANOVA) decomposition offers a systematic met
 
 tags:
   - Physical AI
-  - AI4Science
+  # - AI4Science
 
 # Display this page in the Featured widget?
 featured: true

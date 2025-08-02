@@ -15,7 +15,7 @@ abstract: This paper introduces a novel theoretical and conceptual framework for
 
 tags:
   - Sparse Signal Processing
-  - AI4Science
+  # - AI4Science
 
 # Display this page in the Featured widget?
 featured: true
