@@ -3,7 +3,7 @@ title: A neural architecture for Bayesian compressive sensing over the simplex v
   Laplace techniques
 authors:
 - Steffen Limmer
-- Sławomir Sta\ŉczak
+- Slawomir Stanczak
 date: '2018-01-01'
 publishDate: '2025-08-02T10:57:54.733866Z'
 publication_types:
