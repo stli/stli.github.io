@@ -53,7 +53,7 @@ education:
     date_start: 2013-04-01
     date_end: 2018-12-31
     summary: |
-      Thesis on _Neural Architectures for Sparse Signals_. Supervised by [Prof Slawimir Stanczak].
+      Thesis on _Neural Architectures for Sparse Signals_. Supervised by [Prof Slawomir Stanczak].
     button:
       text: 'Read Thesis'
       url: 'https://depositonce.tu-berlin.de/bitstream/11303/9010/4/limmer_steffen.pdf'
@@ -149,5 +149,5 @@ work:
 
 ## About Me
 
-I am a Research Scientist in the Foundational Technologies Division of Siemens AG. I do research in the area of Physical AI and work on developing AI-enhanced products.
+I am a Research Scientist in the Foundational Technologies Division of Siemens AG. I work on research projects in the area of Physical AI as well as on developing AI-enhanced products.
 In 2019, I received a PhD in EECS from TU Berlin (with highest distinction) and my thesis was on _Neural Architectures for Sparse Signals_.
