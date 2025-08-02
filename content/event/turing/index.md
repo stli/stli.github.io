@@ -12,8 +12,7 @@ event_url: https://www.turing.ac.uk/events/phi-ml-meets-engineering-neural-netwo
 #   postcode: '94305'
 #   country: United States
 
-summary:  Neural networks for integral equations and engineering applications
-abstract: This talk will delve into various neural network approaches for solving integral equations prevalent in engineering. We'll begin with a physics-informed neural network for line integrals in pathloss prediction, highlighting its physically consistent estimates, rapid inference, and utility for tasks like localization. Next, we'll introduce the Neural-ANOVA decomposition, a method to break down neural networks into lower-dimensional models via closed-form integration, enabling analysis of learned interaction effects. Finally, we'll explore using Laplace techniques to design training-free neural networks that solve integrals over specific polytopes, demonstrating how classical deep networks with specialized activation functions can achieve closed-form solutions. Collectively, these approaches underscore the power of neural networks in tackling integral equations and advancing engineering applications through innovative architectures.
+summary: In this talk, we will explore different approaches that leverage neural networks for solving integral equations that appear in engineering applications. First, we introduce a physics-informed neural network for the problem of calculating line integrals in pathloss prediction. The method provides physically consistent pathloss estimates, while offering fast inference times and automatic differentiation useful for downstream tasks such as localization and network planning. Second, we introduce an approach to decompose neural networks into lower-dimensional models using the ANOVA decomposition. This Neural-ANOVA decomposition builds on closed-form integration over subspaces and enables an analysis of all learned interaction effects. Lastly, we discuss the application of Laplace techniques for designing neural networks to solve integrals over a particular class of polytopes that are given as the intersection of the simplex and an affine subspace. We show that classical deep neural networks with specialized activation functions can be designed to solve this problem in closed-form without training. These approaches collectively demonstrate the potential of neural networks for integral equations and advancing engineering applications through tailored network architectures and training methods.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +33,8 @@ featured: true
 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: ''
+  preview_only: false
 
 #links:
 #  - icon: twitter
@@ -51,7 +51,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -59,7 +59,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - []
+  - Physical AI
 ---
 
 <!-- {{% callout note %}}
