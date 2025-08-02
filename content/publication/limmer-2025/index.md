@@ -42,7 +42,7 @@ url_code: 'https://github.com/stli/neural-anova'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: 'smart'
+  focal_point: ''
   preview_only: true
 
 # Associated Projects (optional).
