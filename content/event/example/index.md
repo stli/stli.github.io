@@ -1,18 +1,18 @@
 ---
-title: Example Talk
+title: Neural networks for integral equations and engineering applications @ The Alan Turing Institute
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Physics-informed machine learning meets engineering seminar series
+event_url: https://www.turing.ac.uk/events/phi-ml-meets-engineering-neural-networks-integral-equations-and-engineering-applications
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# location: Hugo Blox Builder HQ
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary:  Physics-informed machine learning meets engineering seminar series @ The Alan Turing Institute
+summary:  Neural networks for integral equations and engineering applications
 abstract: In this talk, we will explore different approaches that leverage neural networks for solving integral equations that appear in engineering applications. First, we introduce a physics-informed neural network for the problem of calculating line integrals in pathloss prediction. The method provides physically consistent pathloss estimates, while offering fast inference times and automatic differentiation useful for downstream tasks such as localization and network planning. Second, we introduce an approach to decompose neural networks into lower-dimensional models using the ANOVA decomposition. This Neural-ANOVA decomposition builds on closed-form integration over subspaces and enables an analysis of all learned interaction effects. Lastly, we discuss the application of Laplace techniques for designing neural networks to solve integrals over a particular class of polytopes that are given as the intersection of the simplex and an affine subspace. We show that classical deep neural networks with specialized activation functions can be designed to solve this problem in closed-form without training. These approaches collectively demonstrate the potential of neural networks for integral equations and advancing engineering applications through tailored network architectures and training methods.
 
 # Talk start and end times.
