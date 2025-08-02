@@ -12,13 +12,13 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary:  Physics-informed machine learning meets engineering seminar series @ The Alan Turing Institute
+abstract: In this talk, we will explore different approaches that leverage neural networks for solving integral equations that appear in engineering applications. First, we introduce a physics-informed neural network for the problem of calculating line integrals in pathloss prediction. The method provides physically consistent pathloss estimates, while offering fast inference times and automatic differentiation useful for downstream tasks such as localization and network planning. Second, we introduce an approach to decompose neural networks into lower-dimensional models using the ANOVA decomposition. This Neural-ANOVA decomposition builds on closed-form integration over subspaces and enables an analysis of all learned interaction effects. Lastly, we discuss the application of Laplace techniques for designing neural networks to solve integrals over a particular class of polytopes that are given as the intersection of the simplex and an affine subspace. We show that classical deep neural networks with specialized activation functions can be designed to solve this problem in closed-form without training. These approaches collectively demonstrate the potential of neural networks for integral equations and advancing engineering applications through tailored network architectures and training methods.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-09-05'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
