@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Electrical Engineering and Computer Science
     institution: Technical Universitiy of Berlin
-    date_start: 2013-04
-    date_end: 2018-12
+    date_start: 04/2013
+    date_end: 12/2018
     summary: |
       Thesis on _Differentiable Architectures for Sparse Signals_. Supervised by [Prof Slawimir Stanczak].
     button:
@@ -66,7 +66,7 @@ work:
     company_name: Siemens AG
     company_url: ''
     company_logo: ''
-    date_start: 2019-01
+    date_start: 01/2019
     date_end: ''
     summary: |2-
       Responsibilities include:
