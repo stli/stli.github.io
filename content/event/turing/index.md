@@ -37,12 +37,12 @@ image:
   focal_point: ''
   preview_only: false
 
-#links:
+links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-# url_code: 'https://github.com'
+ url_code: 'https://www.turing.ac.uk/events/phi-ml-meets-engineering-neural-networks-integral-equations-and-engineering-applications'
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
