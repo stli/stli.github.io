@@ -58,7 +58,7 @@ education:
       text: 'Read Thesis'
       url: 'https://depositonce.tu-berlin.de/bitstream/11303/9010/4/limmer_steffen.pdf'
   - area: Dipl.-Ing. in EECS
-    institution: Technical University of Munich (TUM)
+    institution: Technical University of Munich
     date_start: 2006-04-01
     date_end: 2011-12-31
 work:
