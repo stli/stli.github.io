@@ -4,7 +4,7 @@ authors:
 - Steffen Limmer
 - Alberto Martinez Alba
 - Nicola Michailow
-date: '2023-01-01'
+date: '2023-12-14'
 publishDate: '2025-08-02T10:57:54.756234Z'
 publication_types:
 - paper-conference

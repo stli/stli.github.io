@@ -3,7 +3,7 @@ title: Towards optimal nonlinearities for sparse recovery using higher-order sta
 authors:
 - Steffen Limmer
 - Slawomir Stanczak
-date: '2016-01-01'
+date: '2016-09-05'
 publishDate: '2025-08-02T10:57:54.749867Z'
 publication_types:
 - paper-conference

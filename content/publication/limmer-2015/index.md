@@ -4,7 +4,7 @@ authors:
 - Steffen Limmer
 - Jafar Mohammadi
 - Sławomir Sta\ŉczak
-date: '2015-01-01'
+date: '2015-07-13'
 publishDate: '2025-08-02T10:57:54.762340Z'
 publication_types:
 - paper-conference
