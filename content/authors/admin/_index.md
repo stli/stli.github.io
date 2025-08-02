@@ -11,7 +11,7 @@ last_name: Limmer
 
 # Status emoji
 status:
-  icon: ☕️🎸
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,7 +48,7 @@ interests:
   - Physical AI
 
 education:
-  - area: PhD Electrical Engineering and Computer Science
+  - area: PhD in EECS
     institution: Technical Universitiy of Berlin
     date_start: 2013-04-01
     date_end: 2018-12-31
@@ -57,7 +57,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://depositonce.tu-berlin.de/bitstream/11303/9010/4/limmer_steffen.pdf'
-  - area: Dipl.-Ing. Artificial Intelligence
+  - area: Dipl.-Ing. in EECS
     institution: Technical University of Munich (TUM)
     date_start: 2006-04-01
     date_end: 2011-12-31
@@ -150,4 +150,4 @@ work:
 ## About Me
 
 I am a Research Scientist in the Foundational Technologies Division of Siemens AG. I conduct research in the area of Physical AI and work on developing AI-enhanced products.
-In 2019, I received the Dr.-Ing. degree (Ph.D.) in electrical engineering and information technology (with highest distinction) from TU Berlin where my thesis was on _Neural Architectures for Sparse Signals_.
+In 2019, I received the Dr.-Ing. degree (Ph.D.) in EECS from TU Berlin (with highest distinction) where my thesis was on _Neural Architectures for Sparse Signals_.
