@@ -45,7 +45,7 @@ image:
 #  url_code: 'https://www.turing.ac.uk/events/phi-ml-meets-engineering-neural-networks-integral-equations-and-engineering-applications'
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'
-url_video: 'https://www.turing.ac.uk/events/phi-ml-meets-engineering-neural-networks-integral-equations-and-engineering-applications'
+# url_video: 'https://www.turing.ac.uk/events/phi-ml-meets-engineering-neural-networks-integral-equations-and-engineering-applications'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
