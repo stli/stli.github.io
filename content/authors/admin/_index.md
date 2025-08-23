@@ -149,5 +149,4 @@ work:
 
 ## About Me
 
-I am a Research Scientist in the Foundational Technologies Division of Siemens AG. I work on research projects in the area of Physical AI and on developing AI-enhanced products.
-In 2019, I received a PhD in EECS from TU Berlin (with highest distinction) and my thesis was on _Neural Architectures for Sparse Signals_.
+I am a Research Scientist in the Foundational Technologies Division of Siemens AG. I work on research projects in the area of Physical AI and on developing AI-enhanced products. My research interests are in the area of physics-informed neural networks, neural fields, neural differential and integral equations, reinforcement learning for control, sparse signal processing, inverse problems, nonlinear estimation theory and numerical algorithms. In 2019, I received a PhD in EECS from TU Berlin (with highest distinction) and my thesis was on _Neural Architectures for Sparse Signals_.
