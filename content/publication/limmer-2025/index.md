@@ -30,6 +30,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2408.12319'
+url_poster: 'https://github.com/stli/stli.github.io/blob/main/content/publication/limmer-2025/conference-poster.pdf'
 url_code: 'https://github.com/stli/neural-anova'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
